@@ -1,0 +1,11 @@
+Incident_ID,Date,Category,Severity,Department,Description,Root_Cause,Corrective_Action,Status,Days_Lost,Cost_Impact_Lakh
+I001,2025-01-15,Safety,Minor,Production,Worker slipped on wet floor,Inadequate signage,Additional warning signs installed,Closed,2,0.05
+I002,2025-02-08,Environmental,Low,Waste Mgmt,Minor chemical spill,Storage protocol lapse,Retraining conducted,Closed,0,0.12
+I003,2025-02-22,Safety,Minor,Maintenance,Hand injury during repair,Missing PPE,PPE compliance audit,Closed,5,0.08
+I004,2025-03-10,Quality,Medium,Production,Batch quality issue,Machine calibration,Machine recalibrated,Closed,0,0.45
+I005,2025-01-28,Safety,Minor,Logistics,Vehicle minor collision,Driver fatigue,Rest period policy revised,Closed,0,0.18
+I006,2025-03-18,Environmental,Low,Production,Excess water usage,Valve malfunction,Valve replaced,Closed,0,0.06
+I007,2025-02-14,Safety,Minor,Production,Near miss - falling object,Improper storage,Storage area reorganized,Closed,0,0.02
+I008,2025-01-20,Compliance,Low,HR,Documentation delay,Process gap,Digital workflow implemented,Closed,0,0.03
+I009,2025-03-05,Safety,Minor,Quality,Chemical exposure,Ventilation issue,Ventilation improved,Closed,3,0.15
+I010,2025-02-25,Environmental,Low,Facility,Waste segregation error,Insufficient training,Additional training session,Closed,0,0.04

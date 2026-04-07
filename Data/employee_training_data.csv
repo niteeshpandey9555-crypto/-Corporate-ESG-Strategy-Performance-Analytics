@@ -1,0 +1,26 @@
+Employee_ID,Name,Department,Gender,Age,Joining_Date,Current_Designation,Training_Program,Training_Date,Training_Hours,Performance_Score,Promotion_Eligible
+E001,Rajesh Kumar,Production,Male,32,2018-03-15,Supervisor,Leadership Development,2025-02-10,16,4.2,Yes
+E002,Priya Sharma,Quality,Female,28,2019-07-22,Quality Inspector,Six Sigma Green Belt,2025-01-15,24,4.5,Yes
+E003,Amit Patel,Maintenance,Male,35,2017-11-08,Technician,Safety Protocols Advanced,2025-02-20,12,4.0,No
+E004,Sneha Reddy,HR,Female,29,2020-02-14,HR Executive,Diversity & Inclusion,2025-03-05,8,4.3,Yes
+E005,Vijay Singh,Production,Male,41,2015-05-20,Floor Manager,Process Optimization,2025-01-25,20,4.1,No
+E006,Anita Desai,Finance,Female,33,2018-09-10,Accounts Manager,ESG Reporting Standards,2025-02-28,16,4.4,Yes
+E007,Rahul Verma,IT,Male,26,2021-06-15,IT Support,Cybersecurity Basics,2025-03-12,12,3.9,No
+E008,Deepa Nair,Production,Female,31,2019-01-20,Operator,Quality Control Methods,2025-01-18,8,4.2,Yes
+E009,Suresh Gupta,Sales,Male,38,2016-08-05,Sales Manager,Customer Relations,2025-02-15,10,4.3,Yes
+E010,Kavita Joshi,Production,Female,27,2020-11-12,Operator,Machine Operation Advanced,2025-03-08,16,4.0,Yes
+E011,Manoj Yadav,Logistics,Male,34,2018-04-18,Logistics Coord,Supply Chain Mgmt,2025-01-22,14,4.1,No
+E012,Pooja Malhotra,Marketing,Female,30,2019-12-03,Marketing Exec,Digital Marketing,2025-02-25,12,4.4,Yes
+E013,Ravi Shankar,Production,Male,36,2017-07-14,Supervisor,Team Management,2025-03-15,18,4.2,No
+E014,Lakshmi Iyer,Quality,Female,29,2020-03-22,QA Analyst,Statistical Analysis,2025-01-28,20,4.5,Yes
+E015,Arun Kumar,Maintenance,Male,42,2014-10-30,Maintenance Head,Preventive Maintenance,2025-02-18,16,4.0,No
+E016,Meera Kapoor,Production,Female,25,2021-08-16,Trainee,Production Fundamentals,2025-03-20,24,3.8,No
+E017,Sandeep Jain,Procurement,Male,37,2016-12-05,Procurement Mgr,Vendor Management,2025-01-30,14,4.3,Yes
+E018,Divya Menon,HR,Female,32,2018-06-20,Training Manager,Adult Learning Principles,2025-02-22,12,4.6,Yes
+E019,Prakash Rao,Production,Male,39,2015-09-12,Shift Incharge,Conflict Resolution,2025-03-10,10,4.1,No
+E020,Swati Kulkarni,Finance,Female,31,2019-04-08,Finance Analyst,Financial Modeling,2025-02-05,16,4.4,Yes
+E021,Arjun Mehta,Production,Male,28,2020-07-25,Operator,Workplace Safety,2025-01-20,8,4.0,Yes
+E022,Nisha Chopra,Quality,Female,27,2021-02-18,Quality Trainee,ISO Standards,2025-03-18,20,4.2,Yes
+E023,Vivek Sinha,IT,Male,33,2018-11-22,System Admin,Cloud Computing,2025-02-12,18,4.3,No
+E024,Rani Patel,Production,Female,30,2019-08-15,Team Leader,Leadership Basics,2025-01-25,12,4.1,Yes
+E025,Karthik Krishnan,Sales,Male,35,2017-03-10,Regional Manager,Strategic Selling,2025-02-28,16,4.5,Yes

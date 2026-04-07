@@ -1,0 +1,6 @@
+Quarter,Year,Total_Employees,Active_Employees,Retention_Rate_Percent,Women_Employees,Women_Percent,New_Hires,Training_Hours_Total,Training_Hours_Per_Employee,Community_Beneficiaries,Health_Incidents,Sick_Leave_Days
+Q1,2025,500,476,72.0,90,18.0,25,1850,3.7,115,3,420
+Q2,2025,508,504,79.5,127,25.0,32,2120,4.2,138,2,385
+Q3,2025,512,519,81.8,138,27.0,18,2380,4.6,142,1,362
+Q4,2025,515,530,83.5,144,28.0,22,2450,4.8,128,2,348
+Q1,2026,520,538,85.2,156,30.0,28,2580,5.0,155,1,325

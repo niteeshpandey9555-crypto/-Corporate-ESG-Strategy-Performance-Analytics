@@ -1,0 +1,16 @@
+Activity_ID,Program_Name,Partner_Organization,Location,Start_Date,Beneficiary_Type,Beneficiaries_Count,Investment_Amount_Lakh,Program_Status,Impact_Metric
+A001,Girls Education Support,Akshaya Patra Foundation,Mumbai,2025-01-10,Students,85,3.5,Active,85 girls supported with school supplies
+A002,Skill Training for Women,SEWA,Surat,2025-02-15,Women,42,2.8,Active,42 women trained in tailoring
+A003,Clean Water Initiative,Water.org India,Rural Maharashtra,2025-01-20,Families,120,4.2,Active,120 families access to clean water
+A004,Adult Literacy Program,Pratham Foundation,Local Community,2025-03-05,Adults,38,1.5,Active,38 adults enrolled in literacy program
+A005,Health Camp,Apollo Hospitals CSR,Factory Vicinity,2025-02-20,General Public,156,2.1,Completed,156 people screened for health issues
+A006,Tree Plantation Drive,Green India Foundation,Factory Campus,2025-03-15,Environment,500,0.8,Completed,500 trees planted
+A007,Senior Citizen Care,HelpAge India,Local Area,2025-01-25,Senior Citizens,22,1.2,Active,22 seniors receiving monthly support
+A008,Vocational Training,Don Bosco Navajeevan,Mumbai,2025-02-28,Youth,35,2.5,Active,35 youth in vocational courses
+A009,Sports Equipment Donation,Khelo India,Local Schools,2025-03-10,Students,95,1.8,Completed,4 schools received sports equipment
+A010,Menstrual Hygiene Awareness,Goonj,Women & Girls,2025-02-05,Women,68,1.1,Completed,68 women educated on hygiene practices
+A011,Computer Literacy,Digital India Foundation,School Partnership,2025-01-30,Students,52,2.2,Active,52 students learning basic computers
+A012,Sanitation Infrastructure,Sulabh International,Community,2025-03-20,Families,45,3.8,In Progress,Toilets under construction for 45 families
+A013,Nutrition Support,Smile Foundation,Underprivileged Kids,2025-02-12,Children,73,2.6,Active,73 children receiving daily meals
+A014,Solar Light Distribution,Barefoot College,Rural Areas,2025-01-18,Households,32,1.5,Completed,32 homes with solar lighting
+A015,Disability Support,NAB India,Differently Abled,2025-03-08,Individuals,18,1.9,Active,18 individuals receiving assistive devices

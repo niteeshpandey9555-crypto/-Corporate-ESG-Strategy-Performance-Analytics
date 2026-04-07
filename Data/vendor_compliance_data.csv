@@ -1,0 +1,51 @@
+Vendor_ID,Vendor_Name,Category,Location,Annual_Spend_Lakh,ESG_Status,Certification_Date,Last_Audit_Date,Compliance_Score,Issues_Identified,Action_Plan
+V001,Mahindra Textiles Ltd,Raw Materials,Mumbai,45,Compliant,2025-03-15,2025-09-10,92,None,N/A
+V002,Patel Fabrics & Sons,Raw Materials,Surat,38,Compliant,2025-04-20,2025-10-05,88,Minor documentation gaps,Resolved
+V003,Gujarat Cotton Mills,Raw Materials,Ahmedabad,52,Compliant,2025-02-10,2025-08-15,95,None,N/A
+V004,Rajasthan Spinning Co,Raw Materials,Jaipur,28,In Progress,Pending,2025-11-20,72,Labor practices review,Q2 2026 target
+V005,Bengal Textiles Pvt Ltd,Raw Materials,Kolkata,35,Compliant,2025-05-08,2025-11-12,90,None,N/A
+V006,South India Fabrics,Raw Materials,Chennai,42,Compliant,2025-03-25,2025-09-28,86,Waste management,Resolved
+V007,Haryana Cotton Industries,Raw Materials,Panipat,31,Compliant,2025-04-15,2025-10-18,89,None,N/A
+V008,AP Textiles Corporation,Raw Materials,Visakhapatnam,25,Compliant,2025-06-01,2025-12-05,87,None,N/A
+V009,Karnataka Mills Ltd,Raw Materials,Bangalore,48,Compliant,2025-02-28,2025-08-30,93,None,N/A
+V010,MP Cotton Co,Raw Materials,Indore,22,Compliant,2025-05-20,2025-11-25,85,Energy efficiency,In progress
+V011,Rajesh Packaging Solutions,Packaging,Delhi,18,Compliant,2025-03-10,2025-09-15,91,None,N/A
+V012,Green Pack Industries,Packaging,Pune,15,Compliant,2025-04-05,2025-10-10,94,None,N/A
+V013,Eco Packaging Pvt Ltd,Packaging,Hyderabad,12,Compliant,2025-05-15,2025-11-18,88,Recycling rates,Improved
+V014,Modern Pack Co,Packaging,Gurgaon,20,Compliant,2025-02-20,2025-08-22,87,None,N/A
+V015,Sustainable Solutions Ltd,Packaging,Mumbai,16,Compliant,2025-03-30,2025-09-25,92,None,N/A
+V016,Plastic Alternatives India,Packaging,Bangalore,14,Compliant,2025-04-25,2025-10-28,90,None,N/A
+V017,Paper Products Corp,Packaging,Chennai,11,Compliant,2025-05-10,2025-11-08,86,None,N/A
+V018,Innovative Packaging,Packaging,Ahmedabad,13,In Progress,Pending,2025-12-01,70,Carbon tracking,Q1 2026 target
+V019,Premium Pack Industries,Packaging,Jaipur,9,Compliant,2025-06-15,2025-12-18,89,None,N/A
+V020,Quality Containers Ltd,Packaging,Kolkata,10,Compliant,2025-03-18,2025-09-20,85,None,N/A
+V021,Express Logistics India,Logistics,Pan India,32,Compliant,2025-02-15,2025-08-18,90,None,N/A
+V022,Freight Masters Pvt Ltd,Logistics,Delhi-NCR,28,Compliant,2025-03-22,2025-09-24,87,Fleet emissions,Monitoring
+V023,Swift Transport Services,Logistics,Mumbai,24,Compliant,2025-04-10,2025-10-12,91,None,N/A
+V024,Green Mile Logistics,Logistics,Bangalore,35,Compliant,2025-02-28,2025-08-28,93,None,N/A
+V025,Reliable Freight Co,Logistics,Chennai,22,Compliant,2025-05-05,2025-11-05,88,None,N/A
+V026,Metro Transport Solutions,Logistics,Pune,18,Compliant,2025-03-15,2025-09-18,86,None,N/A
+V027,Nationwide Cargo Ltd,Logistics,Ahmedabad,26,In Progress,Pending,2025-11-28,68,Driver welfare,Development plan
+V028,Fast Track Logistics,Logistics,Hyderabad,21,Compliant,2025-04-20,2025-10-22,89,None,N/A
+V029,Coastal Shipping Corp,Logistics,Visakhapatnam,19,Compliant,2025-05-12,2025-11-15,85,None,N/A
+V030,Highway Express India,Logistics,Jaipur,15,In Progress,Pending,2025-12-10,65,Safety protocols,Q2 2026 target
+V031,Tech Solutions India,Services,Bangalore,8,Compliant,2025-03-05,2025-09-08,94,None,N/A
+V032,Consulting Partners Ltd,Services,Mumbai,6,Compliant,2025-04-12,2025-10-15,92,None,N/A
+V033,Legal Associates,Services,Delhi,5,Compliant,2025-02-25,2025-08-25,90,None,N/A
+V034,HR Services Pvt Ltd,Services,Pune,4,Compliant,2025-05-08,2025-11-10,91,None,N/A
+V035,Marketing Dynamics,Services,Hyderabad,7,Compliant,2025-03-20,2025-09-22,88,None,N/A
+V036,Industrial Maintenance,Maintenance,On-site,12,Compliant,2025-02-18,2025-08-20,87,None,N/A
+V037,Safety Equipment Co,Safety,Delhi,9,Compliant,2025-04-08,2025-10-08,93,None,N/A
+V038,Electrical Services Ltd,Maintenance,Mumbai,11,Compliant,2025-03-12,2025-09-12,89,None,N/A
+V039,Cleaning Solutions India,Facility,Pan India,8,Compliant,2025-05-18,2025-11-20,86,None,N/A
+V040,Security Services Corp,Security,On-site,10,Compliant,2025-02-22,2025-08-24,90,None,N/A
+V041,Catering Plus India,Facility,On-site,7,Compliant,2025-04-15,2025-10-18,88,Food waste,Improving
+V042,Machinery Suppliers Ltd,Equipment,Bangalore,25,Compliant,2025-03-08,2025-09-10,92,None,N/A
+V043,Spare Parts India,Equipment,Chennai,15,Compliant,2025-05-22,2025-11-24,87,None,N/A
+V044,Industrial Tools Co,Equipment,Pune,18,Compliant,2025-02-12,2025-08-15,91,None,N/A
+V045,Testing Lab Services,Quality,Mumbai,6,Compliant,2025-04-25,2025-10-28,94,None,N/A
+V046,Quality Assurance Ltd,Quality,Bangalore,5,Compliant,2025-03-28,2025-09-30,89,None,N/A
+V047,Raw Material Traders,Trading,Surat,20,Compliant,2025-02-08,2025-08-10,85,None,N/A
+V048,Chemical Supplies India,Chemicals,Mumbai,14,Compliant,2025-05-15,2025-11-18,88,MSDS updates,Completed
+V049,Dye Manufacturers Ltd,Chemicals,Ahmedabad,16,Compliant,2025-04-05,2025-10-08,90,None,N/A
+V050,Finishing Solutions,Chemicals,Surat,12,Compliant,2025-03-18,2025-09-20,86,None,N/A
